@@ -70,3 +70,7 @@ Dataset: [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-mov
 ---
 
 Feel free to fork, experiment, and contribute! 🎉
+
+
+![WhatsApp Image 2025-05-29 at 23 32 06_ef620fc4](https://github.com/user-attachments/assets/ed828314-869e-45d9-8b47-83ec5eddb9db)
+
