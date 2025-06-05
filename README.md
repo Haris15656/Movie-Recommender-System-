@@ -48,14 +48,6 @@ Both files are publicly available on Kaggle.
 
 ---
 
-## 💡 Future Improvements
-
-- Add collaborative filtering (user-based recommendations).
-- Integrate with a frontend (Streamlit or Flask app).
-- Improve metadata extraction (e.g., NLP on movie plots).
-
----
-
 ## 📌 Credits
 
 Dataset: [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
